@@ -1,9 +1,10 @@
 # TAU XSCAVE Index
 The index of TAU XSCAVE public codebase.
 
-<details>
+## [Physics-informed Data-driven Modeling of Rock Motion Dynamics in Excavation](https://github.com/tau-alma/simpat2025-rock-motion)
 
-<summary>## [Physics-informed Data-driven Modeling of Rock Motion Dynamics in Excavation](https://github.com/tau-alma/simpat2025-rock-motion)</summary>
+<details>
+<summary>See details.</summary>
 
 This repository contains the code and simulation framework for the paper:
 
