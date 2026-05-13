@@ -9,6 +9,7 @@ This project implements a physics-informed, data-driven framework for predicting
 <summary>Expand details.
 </summary>
 
+
 This repository contains the code and simulation framework for the paper:
 
 **"Physics-informed data-driven modeling of rock motion dynamics in excavation using a high-fidelity simulator"**  
