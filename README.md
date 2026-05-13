@@ -1,4 +1,4 @@
-# TAU XSCAVE Index
+# TAU XSCAVE Codebase Index
 The index of TAU XSCAVE public codebase.
 
 ## [Physics-informed Data-driven Modeling of Rock Motion Dynamics in Excavation](https://github.com/tau-alma/simpat2025-rock-motion)
@@ -6,7 +6,8 @@ The index of TAU XSCAVE public codebase.
 This project implements a physics-informed, data-driven framework for predicting the motion of large rocks during excavation. The framework uses the **Algoryx high-fidelity simulator** to generate training data and employs physics-informed neural networks (PINNs) to learn predictive models of rock dynamics. The approach addresses the complex interactions among excavator bucket, rock, and soil that are not effectively captured using analytical models.
 
 <details>
-<summary>Expand details.</summary>
+<summary>Expand details.
+</summary>
 
 This repository contains the code and simulation framework for the paper:
 
